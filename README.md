@@ -20,7 +20,7 @@ Cross-functional development teams
 
 📫 How to reach me:
 Email - vigneswaris2002@gmail.com
-LinkedIn - https://www.linkedin.com/in/vigneswari02
+LinkedIn - https://www.linkedin.com/in/vigneswariCoder
 
 😄 Pronouns:
 She/Her
