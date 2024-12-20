@@ -10,7 +10,6 @@ Learning new technologies and best practices
 
 🌱 I’m currently learning:
 Advanced Java techniques
-React Native for mobile app development
 Modern CSS frameworks and design patterns
 
 💞️ I’m looking to collaborate on:
