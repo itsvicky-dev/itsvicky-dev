@@ -2,7 +2,7 @@
 
 ### Hi, I’m **Vigneswari** 👋
 
-💻 **Full-Stack Developer | UI/UX Enthusiast**
+💻 **Full-Stack Developer**
 
 Passionate about building scalable, responsive, and user-friendly applications. Skilled in modern web technologies and design principles, with hands-on experience across the full development lifecycle.
 
@@ -24,7 +24,6 @@ Passionate about building scalable, responsive, and user-friendly applications. 
 ---
 
 ### 🤝 **Open to Collaborate On**
-- Open-source projects
 - Innovative, cross-functional web applications
 
 ---
